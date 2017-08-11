@@ -1,1 +1,1 @@
-#Linaron GCC 4.8
+# Linaro-GCC-4.8
